@@ -1,10 +1,11 @@
- const firebaseConfig = {
-    apiKey: "AIzaSyCd1Oh_mRyQlLY-CTioB1n33tRwlnA9kLU",
-    authDomain: "projeto-login-8cc14.firebaseapp.com",
-    projectId: "projeto-login-8cc14",
-    storageBucket: "projeto-login-8cc14.firebasestorage.app",
-    messagingSenderId: "755320659151",
-    appId: "1:755320659151:web:7016dc7feaf2da5f8cebba",
-    measurementId: "G-F2B1413THP"
+const firebaseConfig = {
+    apiKey: "AIzaSyAKhuuLTrmPrb7C3xbx8YmEBbdYxi5G-7Q",
+    authDomain: "projetologin-744fd.firebaseapp.com",
+    projectId: "projetologin-744fd",
+    storageBucket: "projetologin-744fd.firebasestorage.app",
+    messagingSenderId: "518769335534",
+    appId: "1:518769335534:web:002a008e5424250ff6e7ff",
+    measurementId: "G-68WG5TMWVS"
   };
-      firebase.initializeApp(firebaseConfig); 
+
+  firebase.initializeApp(firebaseConfig); 
